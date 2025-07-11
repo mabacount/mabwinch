@@ -1,0 +1,13 @@
+# Python virtual environment
+venv/
+__pycache__/
+
+# Node.js dependencies
+node_modules/
+
+# Environment variables (contains secrets)
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
